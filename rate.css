@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'product-sans';
+    src: url(/Product\ Sans\ Bold.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: product-sans;
+   
+}
+div{
+  height: 10rem;
+  width: 50%;
+  margin: auto;
+ margin-top: 25%;
+ text-align: center;
+ align-items: center;
+ justify-content: center;
+ border-color: rgba(0, 0, 0, 0.247);
+ border-style: solid;
+}
+h1{
+    font-size: 6rem;
+}
+h3{
+    text-align: center;
+}
